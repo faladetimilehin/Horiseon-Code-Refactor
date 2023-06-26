@@ -2,7 +2,18 @@
 
 ## Description
 
-The Horiseon page is desinged with HTML and CSS. It is to help improve the accessibility and search engine optimization.
+The Horiseon page is designed with HTML and CSS.
+It is to help improve the accessibility and search engine optimization of the brand.
+
+## Summary
+
+- [Description](#description)
+- [User Story](#user-story)
+- [Acceptance Criteria](#acceptance-criteria)
+- [Mock-Up](#mock-up)
+- [Technologies Used](#technologies-used)
+- [Usage](#usage)
+- [Deployment](#deployment)
 
 ### User Story
 
