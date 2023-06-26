@@ -19,14 +19,14 @@ It is to help improve the accessibility and search engine optimization of the br
 
 ```
 AS A marketing agency I WANT a codebase that follows accessibility standards
- SO THAT our own site is optimized for search engines
+SO THAT our own site is optimized for search engines
 ```
 
 ### Acceptance Criteria
 
 - Changed website title and added a meta description for SEO;
 - Added alt text on images and icons for SEO and accessibility;
-- Explanatory comments were provided in the HTML document;
+- Use Semantic elements in the HTML document;
 
 ### Mock-Up
 
